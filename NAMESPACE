@@ -1,0 +1,2 @@
+useDynLib(iCARE)
+export(computeAbsoluteRisk, computeAbsoluteRiskSplitInterval)
